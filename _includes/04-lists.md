@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Dinoass
+- Kartoffeler
+  - Søde
+  - Bagte
+  - Friske
