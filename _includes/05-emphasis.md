@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. Kan java, _meget **dårligt**_
+2. _Fantastisk_ humor
+3. Dinofan _Yes_
